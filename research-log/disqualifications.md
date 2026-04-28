@@ -73,7 +73,26 @@ V. **Evidence Sources**
 *(Fill in one entry per disqualified company in the format below)*
 
 ---
-
+AUTO-DISQUALIFY (do NOT research — skip entirely)
+ 
+These are confirmed fails. Researching them wastes time. Log each one in `disqualifications.md` with a one-line reason.
+ 
+| # | Company | Disqualify reason |
+|---|---------|------------------|
+| D1 | Tata Chemicals Ltd | Tata Group subsidiary + Rs.12,000Cr+ revenue |
+| D2 | Hindustan Antibiotics Ltd | PSU (government-owned) — fails promoter-driven test |
+| D3 | Emcure Pharmaceuticals Ltd | Post-IPO (March 2024) + Bain Capital pre-IPO holder + likely >Rs.500Cr |
+| D4 | Alkyl Amines Chemicals Ltd | BSE-listed, ~Rs.1,500Cr revenue |
+| D5 | Hikal Ltd | BSE-listed, ~Rs.2,000Cr revenue |
+| D6 | Serum Institute of India Pvt. Ltd | Rs.10,000Cr+ revenue |
+| D7 | Lupin Ltd | Rs.20,000Cr+ revenue |
+| D8 | Granules India Ltd | Hyderabad-HQ + too big + Pune is one of many sites |
+| D9 | Strand Life Sciences Pvt. Ltd | Bengaluru HQ + Eurofins (MNC) acquired |
+| D10 | Fujifilm Sericol India Pvt. Ltd | Fujifilm Japan subsidiary |
+| D11 | Enza Zaden India Pvt. Ltd | Manufacturing in Hessarghatta, Bangalore — not Pune |
+| D12 | Sudarshan Chemical Industries Ltd | BSE-listed, ~Rs.2,500Cr revenue |
+| D13 | PRADO Preclinical R&D Organisation Pvt. Ltd | Name says "Preclinical Research" — CRO trap, not manufacturer |
+| D14 | Clean Science and Technology Ltd | BSE-listed — verify current revenue (may have crossed Rs.500Cr ceiling) |
 ### Template
 
 **Company Name:**
