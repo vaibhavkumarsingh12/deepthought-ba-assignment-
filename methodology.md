@@ -262,7 +262,92 @@ THEN → Add 5–10 Vadodara/Ahmedabad specialty-chem names to candidate pool
 5. **Research gap**: Not covered by major sell-side equity research or widely profiled in media
 
 ---
+# 🔬 Research Calibration Note: Aquapharm Chemical Limited
 
+## 📌 Company Overview
+**Target:** Aquapharm Chemical Limited  
+**Locations:** Pune (MIDC Bhosari, Pirangut) + Mahad  
+**R&D Status:** DSIR-recognized unit (TU/IV-RD/1059)
+
+Aquapharm initially appeared to be a strong **“Federer profile”** candidate based on:
+
+- 275+ proprietary products  
+- Expertise in:
+  - Specialty phosphonate chemistry  
+  - GLDA chelating agents  
+  - Polymers  
+  - Oil-field chemicals  
+- Established manufacturing footprint  
+- Strong technical R&D infrastructure  
+
+---
+
+## ⚠️ Disqualification Findings
+
+
+
+
+### 1. Revenue Breach
+- **FY25 Revenue:** ₹1,419.80 Crore  
+- **Threshold:** ₹500 Crore  
+- ❌ **Status:** 2.8× above allowed limit  
+
+### 2. Ownership Violation
+- **Parent Group:** RPSG (RP-Sanjiv Goenka Group)  
+- **Group Size:** ₹40,000+ Crore conglomerate  
+- ❌ **Status:** Violates “no big-group subsidiaries” rule  
+
+> 🚫 **Conclusion:** Either factor alone disqualifies the company. Together, they decisively place Aquapharm outside the ICP.
+
+---
+
+## 🧠 Workflow Calibration Insights
+
+This case served as the **first critical calibration checkpoint** in the research process.
+
+### 🔁 Improvement 1: Prioritize Core Filters First
+Before filling any dataset fields:
+
+- ✅ Verify **Revenue Band**
+- ✅ Verify **Ownership / Group Affiliation**
+
+**New Rule:**
+> If disqualified → log in `disqualifications.md` and STOP further analysis.
+
+---
+
+### 🤖 Improvement 2: Limit AI to Non-Critical Data
+
+AI reliability is **restricted** in key areas.
+
+ 
+
+#### ✅ Use ONLY primary sources:
+- Tofler  
+- MCA filings  
+- BSE/NSE disclosures  
+- Annual Reports  
+
+#### 🤝 AI can assist in:
+- Product descriptions  
+- Certifications  
+- Growth signals *(must be cross-verified)*  
+
+---
+
+## 📝 Documentation Outcome
+
+- Aquapharm recorded as **first instructive disqualification** in `disqualifications.md`
+- No incorrect entry made in `companies.csv`
+
+> 🎯 This validates the workflow’s robustness and aligns with the brief’s warning:
+> _“We will verify your claims.”_
+
+---
+
+## ✅ Key Takeaway
+
+> **Early validation of hard filters (Revenue + Ownership) prevents downstream errors and ensures dataset integrity.**
 ## Research Process
 
 1. Pulled raw lists from each source (see `sources/`)
