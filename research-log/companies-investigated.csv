@@ -1,0 +1,6 @@
+company_name,city,state,sector,source,employee_count_estimate,revenue_inr_cr_estimate,export_evidence,status,fail_reason,notes
+,,,,,,,,pass,,
+,,,,,,,,fail,employee count out of range,
+,,,,,,,,fail,subsidiary of large group,
+,,,,,,,,pass,,
+,,,,,,,,fail,no export evidence,
