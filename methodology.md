@@ -257,9 +257,9 @@ THEN → Add 5–10 Vadodara/Ahmedabad specialty-chem names to candidate pool
 
 1. **Geography**: Registered or primary operations in Maharashtra (Pune, Mumbai, Aurangabad, Nagpur belt preferred)
 2. **Sector**: Specialty chemicals, fine chemicals, pharma APIs/intermediates, agrochemicals
-3. **Size**: 50–500 employees (or ₹10 Cr – ₹500 Cr revenue as proxy)
-4. **Export activity**: Evidence of export (USFDA registration, export awards, foreign client mentions)
-5. **Research gap**: Not covered by major sell-side equity research or widely profiled in media
+
+3. **Export activity**: Evidence of export (USFDA registration, export awards, foreign client mentions)
+4. **Research gap**: Not covered by major sell-side equity research or widely profiled in media
 
 ---
 # 🔬 Research Calibration Note: Aquapharm Chemical Limited
