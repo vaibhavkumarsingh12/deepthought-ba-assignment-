@@ -2,7 +2,7 @@
 
 ## Objective
 
-Identify 25 companies in Maharashtra (focus: Pune / Mumbai) operating in the specialty chemicals or pharma-intermediates space, with 50–500 employees, actively exporting, and not yet well-covered by analyst reports.
+Identify 25 companies in Maharashtra (focus: Pune / Mumbai) operating in the specialty chemicals or pharma-intermediates space, Rs.50–500 Cr revenue, 6-criterion ICP test, Pune Basket A two-segment
 
 ---
 
