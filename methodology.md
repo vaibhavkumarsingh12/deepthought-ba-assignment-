@@ -2,7 +2,24 @@
 
 ## Objective
 
-Identify 25 companies in Maharashtra (focus: Pune / Mumbai) operating in the specialty chemicals or pharma-intermediates space, Rs.50–500 Cr revenue, 6-criterion ICP test, Pune Basket A two-segment
+Identify 25 companies operating in **Pune** (operational presence — HQ, R&D,
+or primary manufacturing in the Pune district per the brief's Section 2 rule)
+across two Basket A segments — *Custom synthesis & specialty chemicals* and
+*Specialty diagnostics & life-science tools* — that match the **Federer
+profile**:
+
+- **Revenue band:** ₹50Cr–₹500Cr (per brief). Sub-floor candidates
+  permitted only with explicit scale caveat following the Lazuline pattern
+  in the brief's worked examples.
+- **Ownership:** Founder/promoter-driven. Auto-disqualify subsidiaries of
+  large groups, recently-acquired companies, and PE/VC-controlled entities.
+- **Differentiation:** Patents, DSIR/USFDA/WHO-GMP recognition, or
+  proprietary technical products. Auto-disqualify traders, distributors,
+  CROs, testing labs, and bulk-commodity manufacturers.
+- **Decision-maker:** Technical/scientific founder or MD (PhD, IIT/NIT/IISc,
+  ex-ISRO/DRDO, scientist or engineer with publications).
+- **Growth signals:** ≥2 of the brief's 5 thresholds (hiring 5+, facility
+  expansion, new certification, current website, revenue growth).
 
 ---
 
