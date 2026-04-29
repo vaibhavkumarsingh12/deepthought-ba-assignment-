@@ -10,7 +10,7 @@ A standard Google search returns what companies *say about themselves*. The Fede
 
 ---
 
-## Tier 1 — Foundational sources (most candidates will use these)
+## Tier 1 — Foundational sources (use this in this project)
 
 **1. DSIR R&D Recognition Registry** (`dsir.gov.in`)
 The Department of Scientific & Industrial Research maintains a public list of all in-house R&D units recognized by the Government of India. Filterable by city and segment. Strong filter for *differentiated manufacturers* — recognition requires substantive R&D infrastructure, not branded marketing.
