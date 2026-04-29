@@ -4,25 +4,42 @@ This file documents why each company investigated was excluded from the final sh
 
 ---
 
-## Disqualification Categories
-
-| Code | Reason |
-|---|---|
-| `SIZE-LARGE` | Employee count or revenue exceeds upper threshold (>500 employees or >₹500 Cr revenue) |
-| `SIZE-SMALL` | Company is too small (<50 employees or <₹10 Cr revenue) |
-| `SUBSIDIARY` | Company is a subsidiary or division of a large listed group |
-| `NO-EXPORT` | No credible evidence of export activity |
-| `GEOGRAPHY` | Primary operations outside Maharashtra |
-| `SECTOR-MISMATCH` | Does not operate in target sector (specialty chemicals / pharma intermediates) |
-| `DATA-INSUFFICIENT` | Could not find enough information to verify criteria |
-| `DORMANT` | Company appears inactive (no recent filings, website down, no recent news) |
-
 ---
 
 ## Disqualified Companies
+# Research Report: Deepak Novochem Technologies Ltd.
+
+| Column | Suggested Value |
+|--------|----------------|
+| **Company Name** | Deepak Novochem Technologies Ltd. (DNTL) |
+| **Website** | dntl.co.in |
+| **City** | Pune (HQ) / Ratnagiri (Manufacturing) |
+| **Segment** | Custom synthesis & specialty chemicals (Agro/Pharma Intermediates & Performance Chemicals) |
+| **What They Make** | 2,6 Xylidine, acetonitrile, and specialized performance chemicals (e.g., BP-818, BP-838) used in coatings and agriculture |
+| **Revenue Band** | ₹311.14 Cr (FY24 Operating Income — verified via CRISIL rating report) |
+| **Decision Maker** | Ajay C. Mehta (MD) / Shreekrishna Sawant (CEO) |
+| **DM Title** | Managing Director / Chief Executive Officer |
+| **DM Background** | Ajay C. Mehta holds an MS in Chemical Engineering from the University of Texas (verified via Deepak Group official site) |
+| **C1 Manufacturer Score** | Strong |
+| **C1 Evidence** | Operates a physical manufacturing plant in Lote Industrial Area, Ratnagiri, Maharashtra. Currently building a greenfield phase 2 plant |
+| **C2 India Score** | Strong |
+| **C2 Evidence** | HQ in Pune (Boat Club Road), R&D in Hinjawadi, and manufacturing in Ratnagiri |
+| **C3 Differentiation Score** | Strong |
+| **C3 Evidence** | Holds a DSIR-recognized R&D unit (TU/IV-RD/3289). Produces highly specialized performance chemicals requiring complex backward/forward integration strategies |
+| **C4 Tech DM Score** | Strong |
+| **C4 Evidence** | Managing Director is a formally trained Chemical Engineer with an MS from the University of Texas |
+| **C5 Tailwind Score** | Strong |
+| **C5 Evidence** | Generates 60–70% of its revenue from exports, positioning it as a beneficiary of global supply chain shifts in the chemical intermediates space |
+| **C6 Growth Score** | Strong |
+| **C6 Evidence** | User verified current hiring on LinkedIn. Furthermore, CARE/CRISIL reports confirm a massive ₹332.50 Cr debt-funded greenfield expansion project through their wholly-owned subsidiary (DNSL) expected to go live in early 2025 |
+| **Verdict** | AUTO-DISQUALIFY |
+| **Verdict Reasoning** | Fails the "Large Subsidiary / Major Group" Hard Kill rule. While DNTL's standalone revenue (~₹311 Cr) fits the target band, it is deeply integrated into the multi-billion-dollar Deepak Group. The promoters (Deepak C. Mehta and family) are the same promoters behind Deepak Nitrite Ltd (a massive ₹6,000Cr+ revenue enterprise). Financial ratings reports explicitly confirm DNTL shares a common board, treasury functions, and operational synergies with the larger conglomerate. It is not the independent, agile, founder-driven target the Federer profile seeks |
+| **Personalization Hook** | N/A (Disqualified) |
+| **Evidence Sources** | CRISIL & CARE Rating Reports (Jan 2025 / Dec 2023); Deepak Group official Board of Directors portal; DSIR TU/IV-RD/3289 |
+
 # Company Research: Aquapharm Chemical Limited
 
-I. **Core Identification & Infrastructure**
+. **Core Identification & Infrastructure**
 * **Company Name**: Aquapharm Chemical Limited (Formerly Advaya Chemical Industries Limited)
 * **Website**: [aquapharm-india.com](https://aquapharm-india.com/)
 * **City**: Pune (HQ: Amar Synergy, Sadhu Vaswani Road)
