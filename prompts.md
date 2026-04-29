@@ -20,7 +20,7 @@ You are an expert Private Equity Analyst and B2B Sourcing Specialist. Your goal 
 
 ## 2. The "Federer" Profile (Who We Are Looking For)
 We want companies in the "Growth + Capability Building" quadrant. 
-* **The Target:** Mid-sized (₹30Cr - ₹500Cr revenue), founder-driven, technically differentiated, physical manufacturers. 
+* **The Target:** Mid-sized (₹50Cr - ₹500Cr revenue), founder-driven, technically differentiated, physical manufacturers. 
 * **The Mindset:** Founders investing in in-house capacity (new plants, R&D, certifications) rather than outsourcing. They produce specialized, high-barrier products, not bulk commodities.
 * **The Decision Maker (DM):** A "Techno-Commercial" promoter (e.g., PhD, IIT/NIT grad, Scientist, or Engineer).
 
@@ -87,50 +87,3 @@ Provide the results in this exact Markdown table format for every company evalua
 
 **User Prompt:** "Are you ready to begin? or if you have question you can ask me If so, reply with 'READY' and I will provide the first company list."
 based on t his inforamtion evaluate all the company in this csv based on these criteria 
-### 1. Initial Sector Scoping
-
-**Prompt:**
-> "List sub-sectors within specialty chemicals and pharma intermediates that are most active in Maharashtra, India. Focus on export-oriented segments."
-
-**Purpose:** Build the sector taxonomy for screening.
-**Guardrail:** Output cross-checked against CHEMEXCIL and Pharmexcil export data.
-
----
-
-### 2. DSIR List Filtering
-
-**Prompt:**
-> "From the following list of DSIR-recognised companies [paste], identify those in specialty chemicals or pharma APIs located in Maharashtra with fewer than 500 employees. Return company name, city, and reason for inclusion."
-
-**Purpose:** Reduce DSIR extract to relevant candidates.
-**Guardrail:** Employee counts verified via LinkedIn / MCA annual returns.
-
----
-
-### 3. BSE SME Screening
-
-**Prompt:**
-> "From this BSE SME listing data [paste], filter for Maharashtra-based companies in chemicals or pharmaceuticals. Flag any with revenue between ₹10 Cr and ₹500 Cr."
-
-**Purpose:** Identify listed SMEs within the revenue band.
-**Guardrail:** Revenue figures verified against BSE annual report filings.
-
----
-
-### 4. Disqualification Reasoning
-
-**Prompt:**
-> "Given these screening criteria [paste criteria], explain why each of the following companies [paste list] does not qualify. Be specific about which criterion fails."
-
-**Purpose:** Generate structured disqualification notes for `research-log/disqualifications.md`.
-**Guardrail:** Each disqualification reason reviewed and corrected manually before logging.
-
----
-
-### 5. Contact Finding
-
-**Prompt:**
-> "For the company [Company Name], find the name and designation of the most relevant business development or export head. Use only publicly available information (LinkedIn, company website, press releases)."
-
-**Purpose:** Populate the `key_contact` and `contact_designation` fields in `companies.csv`.
-**Guardrail:** Contact details verified on LinkedIn and company website before recording.
