@@ -7,6 +7,35 @@ This file documents why each company investigated was excluded from the final sh
 ---
 
 ## Disqualified Companies
+# Research Report: Nova ChemDrugs Pvt. Ltd.
+
+| Column | Suggested Value |
+|--------|----------------|
+| **Company Name** | Nova ChemDrugs Pvt. Ltd. |
+| **Website** | novachemdrugs.com |
+| **City** | Pune |
+| **Segment** | Contract Research Organization (CRO) / Formulation Development |
+| **What They Make** | Service-based model: provides formulation, analytical testing, contract research, and drug delivery system development rather than commercial-scale physical API manufacturing |
+| **Revenue Band** | ₹3.09 Cr (FY25 — verified via Tracxn). Note: Well below the target ₹30–300Cr band |
+| **Decision Maker** | Rajen Dhirubhai Shah / Viraj Dhirubhai Shah |
+| **DM Title** | Directors |
+| **DM Background** | Unknown — verify specific institution and prior employer on LinkedIn |
+| **C1 Manufacturer Score** | Weak (0) |
+| **C1 Evidence** | The company's own website explicitly markets it as an "R&D Center" and "Contract Formulation Development" provider, categorizing them as a services/CRO firm, not a primary commercial manufacturer |
+| **C2 India Score** | Strong |
+| **C2 Evidence** | Registered and physically operates out of J Block, MIDC Bhosari, Pune |
+| **C3 Differentiation Score** | Moderate |
+| **C3 Evidence** | Holds DSIR recognition (TU/IV-RD/4923) for their R&D lab capabilities, but as a CRO, their output is service-driven rather than scaling their own proprietary physical product lines |
+| **C4 Tech DM Score** | Unknown |
+| **C4 Evidence** | Needs explicit verification of engineering/science degrees (PhD/IIT/NIT) for the Shah directors from LinkedIn |
+| **C5 Tailwind Score** | Weak |
+| **C5 Evidence** | As an R&D/CRO service provider with a micro-revenue base, they are not direct beneficiaries of large-scale manufacturing tailwinds like the PLI scheme or China+1 export shifts |
+| **C6 Growth Score** | Weak |
+| **C6 Evidence** | The extremely small revenue base (₹3.09 Cr) contradicts the "high-growth/capacity expansion" phase required for the Federer profile |
+| **Verdict** | AUTO-DISQUALIFY |
+| **Verdict Reasoning** | Fails the "Service Company" Hard Kill rule. Despite the "ChemDrugs" name and a facility in the Bhosari MIDC, Nova ChemDrugs explicitly operates as a Contract Research Organization (CRO) and formulation development lab. They do not own or manufacture physical products at scale. Furthermore, their revenue (~₹3.09 Cr) classifies them as a micro-enterprise, well outside the target ₹30–300Cr range |
+| **Personalization Hook** | N/A (Disqualified) |
+| **Evidence Sources** | novachemdrugs.com (confirmed CRO/R&D focus); Tracxn (Revenue: ₹3.09 Cr FY25); DSIR TU/IV-RD/4923 |
 # Research Report: Deepak Novochem Technologies Ltd.
 
 | Column | Suggested Value |
