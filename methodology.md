@@ -269,15 +269,38 @@ THEN → Add 5–10 Vadodara/Ahmedabad specialty-chem names to candidate pool
 | MIDC Pune cluster data | `sources/midc-pune-chem-list.csv` |
 
 
+## Screening Criteria — The Brief's 6-Criterion Framework
 
-## Screening Criteria
+Each candidate company is evaluated against the brief's six criteria,
+scored Strong / Moderate / Weak, with auto-disqualify rules applied first.
 
-1. **Geography**: Registered or primary operations in Pune (operational presence per brief Sec. 2)
-2. **Sector**: Specialty chemicals, fine chemicals, pharma APIs/intermediates, agrochemicals
+| # | Criterion | Weight | What "Strong" looks like |
+|---|-----------|--------|--------------------------|
+| C1 | Manufacturer | 10 | Owns plant, in-house production, R&D-to-production pipeline. Not a trader, distributor, CRO, or testing lab. |
+| C2 | India-based | 5 | HQ or primary manufacturing in India; for this assignment, in Pune district specifically. |
+| C3 | Differentiated | 25 | Patents, DSIR-recognized R&D, USFDA/EU-GMP, "first/only/pioneer in India," proprietary technical products. |
+| C4 | Technical DM | 20 | Founder/MD with PhD, IIT/IISc/NIT/BITS, ex-ISRO/DRDO, or published scientist credentials. Gen-2 with formal technical education also counts. |
+| C5 | Growing sector | 20 | PLI eligible, China+1 beneficiary, Make-in-India tailwind, regulated-export exposure. |
+| C6 | Active growth signals | 20 | ≥2 of: 5+ open roles in 6 months / new plant or expansion in 18 months / new regulatory approval in 2 years / current-year website + active updates / revenue growth in MCA filings. |
 
-3. **Export activity**: Evidence of export (USFDA registration, export awards, foreign client mentions)
-4. **Research gap**: Not covered by major sell-side equity research or widely profiled in media
+### Auto-disqualify rules (checked before scoring)
 
+A candidate is removed from research immediately if any of the following apply:
+
+- Primarily a trader, distributor, importer, or platform business
+- Service company — CRO, testing lab, analytical services, clinical trial manager
+- Generic pharma — bulk APIs, branded generics, vaccines (without complex delivery systems)
+- Subsidiary of a large group (Tata, Reliance, RPSG, etc.) or recently acquired
+- PE/VC-controlled (majority institutional ownership, not promoter-driven)
+- Revenue confirmed above ₹500Cr (current revenue, not just last filing)
+- No website, single-page placeholder, or no visible activity in 24 months
+
+### Sub-floor (sub-₹50Cr) handling
+
+Per the brief's Lazuline worked example, sub-floor companies *may* be included
+when their differentiation is exceptional (deep IP, rare global capability,
+DSIR-recognized novel platform). Such candidates are flagged with an explicit
+"scale caveat" in the verdict reasoning.
 ---
 # 🔬 Research Calibration Note: Aquapharm Chemical Limited
 
