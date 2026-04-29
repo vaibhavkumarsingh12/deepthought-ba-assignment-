@@ -15,15 +15,15 @@
 | README.md | Master overview — pipeline diagrams, phase-by-phase walkthrough, anti-hallucination protocol, repo navigation guide | ✅ Done | Fix broken file links (Q1, Q2 filenames don't match) |
 | companies.csv | Part A primary deliverable — scored company rows | ⚠️ Incomplete | 11 of 25 rows present — 14 more needed by tomorrow |
 | companies.xlsx | Excel version of the same CSV | ✅ Present | No action |
-| methodology.md | City/segment selection reasoning, Aquapharm calibration, AI discipline, sourcing protocol | ⚠️ Fix needed | Opening 30 lines use wrong criteria ("50–500 employees") — replace with actual brief criteria |
+| methodology.md | City/segment selection reasoning, Aquapharm calibration, AI discipline, sourcing protocol | employees") — replace with actual brief criteria |
 | prompts.md | AI prompts used + hard-rules anti-hallucination block | ✅ Present | Verify it includes the negative-prompting block verbatim |
-| Q1sourcingmethod.md | Part B Q1 — sourcing methods (12 methods, Land/Labor/Capital framework) | ⚠️ Duplicate | Delete one of two Q1 files — keep the better one |
-| Q1sourcingmethod2.md | Second version of Q1 — unclear which is final | ⚠️ Duplicate | Delete whichever is the draft |
+| Q1sourcingmethod.md | Part B Q1 — sourcing methods (12 methods, Land/Labor/Capital framework) | 
+| Q1sourcingmethodvisual2.md | Second version of Q1 — unclear which is final | --> provided in the visual format
 | proposal-1000-companies.md | Part B Q2 — 30-day plan, funnel, AI scoring, risk register | ✅ Done | No action |
 | proposal-1000-visual.md | Visual companion to the 1000-company proposal | ✅ Present | Verify Mermaid diagrams render on GitHub |
-| IOCPL_Financial_Dashboard.pdf | Financial dashboard — likely Indian Oxides and Chemicals Pvt Ltd | ⚠️ Misplaced | Move to dashboards/ folder, rename clearly |
-| apollo_micro_systems_report.pdf | Apollo Micro Systems reference — brief's example disqualification | ⚠️ Misplaced | Move to research-log/reference-companies/ with a note |
-| research-log/ | Master research queue + investigation log + disqualification list | ⚠️ Check | Verify disqualifications.md exists inside with Aquapharm + 14 auto-disqualifies written |
+| IOCPL_Financial_Dashboard.pdf | Financial dashboard — likely Indian Oxides and Chemicals Pvt Ltd | 
+| apollo_micro_systems_report.pdf | Apollo Micro Systems reference — brief's example disqualification | 
+| research-log/ | Master research queue + investigation log + disqualification list |written |
 | scratch/ | Working notes — not for recruiter review | ✅ Present | No actions |
 | sources/ | Raw government data — DSIR xlsx, USFDA PDF, MIDC list, BSE-SME CSV | ✅ Strong | Best-evidenced folder in the repo — no action |
 
