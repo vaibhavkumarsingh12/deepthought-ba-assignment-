@@ -255,7 +255,7 @@ THEN → Add 5–10 Vadodara/Ahmedabad specialty-chem names to candidate pool
 
 ## Screening Criteria
 
-1. **Geography**: Registered or primary operations in Maharashtra (Pune, Mumbai, Aurangabad, Nagpur belt preferred)
+1. **Geography**: Registered or primary operations in Pune (operational presence per brief Sec. 2)
 2. **Sector**: Specialty chemicals, fine chemicals, pharma APIs/intermediates, agrochemicals
 
 3. **Export activity**: Evidence of export (USFDA registration, export awards, foreign client mentions)
