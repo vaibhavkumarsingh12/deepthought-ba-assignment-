@@ -1,10 +1,3 @@
-# DeepThought Business Analytics Fellowship — Target Company Research
-
-**Candidate:** Vaibhav Kumar Singh
-**Assignment:** Identify 25 "Federer Profile" companies for DeepThought's B2B execution-consulting business
-**City selected:** Pune | **Segments:** Custom synthesis & specialty chemicals + Specialty diagnostics & life-science tools
-
----
 
 ## TL;DR — What's in this repo
 
